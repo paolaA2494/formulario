@@ -1,0 +1,17 @@
+@media (max-width: 650px){
+
+    body{
+        padding: 5%;
+    }
+
+    .container{
+        display: block;
+        height: auto;
+        padding: 5%;
+    }
+
+    .survery-form{
+        margin-top: auto;
+    }
+
+}
